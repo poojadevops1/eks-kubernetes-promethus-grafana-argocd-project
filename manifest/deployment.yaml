@@ -16,4 +16,4 @@ spec:
         - name: deploy-container
           image: poojadevops1012/python-flask-rest-api-pro:flask-api
           ports:
-            - containerPort: 80
+            - containerPort: 8080
